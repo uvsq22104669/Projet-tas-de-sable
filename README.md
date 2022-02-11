@@ -5,3 +5,5 @@ Lauredane COUSTILLAS
 Tilly SEASSAU
 Hippolyte 
 Alexandre
+
+Exercice 1
