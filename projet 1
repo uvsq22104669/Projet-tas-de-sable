@@ -7,3 +7,6 @@
 #https://github.com/uvsq22104669/Projet-tas-de-sable
 #######
 
+def carre(x) : 
+    x *= x*x
+    return x
