@@ -7,4 +7,6 @@
 #https://github.com/uvsq22104669/Projet-tas-de-sable
 #######
 
+import tkinter as tk
+
 
