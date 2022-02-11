@@ -8,6 +8,7 @@
 #######
 
 import tkinter as tk
+import random
 
 racine = tk.Tk()
 racine.title("Tas de sable")
