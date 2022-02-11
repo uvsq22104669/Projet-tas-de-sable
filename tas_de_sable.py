@@ -1,1 +1,10 @@
-# test
+#####
+# Groupe  LDDBI 5
+# Laurédane COUSTILLAS
+# Alexandre SCHOUMSKY
+# Hippolyte LEFER
+# Tilly SEASSAU
+#https://github.com/uvsq22104669/Projet-tas-de-sable
+#######
+
+
