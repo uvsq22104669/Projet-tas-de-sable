@@ -23,4 +23,6 @@ canvas.grid(column=0, row=1)
 bouton = tk.Button(racine, text="Configuration courante", bg ="white")
 bouton.grid(column=0, row=2)
 
+
+
 racine.mainloop()
