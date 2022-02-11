@@ -7,13 +7,6 @@
 #https://github.com/uvsq22104669/Projet-tas-de-sable
 #######
 
-<<<<<<< HEA
-=======
 def carre(x) : 
     x *= x*x
     return x
->>>>>>> a2fd379e47cebc1d9c4918581a5c98ab9aaf6f7a
-
-
-
-exercice
