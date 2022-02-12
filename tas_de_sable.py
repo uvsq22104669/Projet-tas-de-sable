@@ -47,6 +47,7 @@ def configurationCourante() :
         elif couleur == 3 : 
           couleur= couleur3
         canvas.create_rectangle((x1, y1, x2, y2), fill=couleur)
+  print("Une case blanche signifie qu'il y a un aucun grain de sable, une case noire 1 grain, une case bleue 2 grains et une case violete 3 grains")
   return 
 
 racine.mainloop()
